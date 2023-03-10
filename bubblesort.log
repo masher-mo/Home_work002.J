@@ -1,0 +1,40 @@
+мар. 10, 2023 4:59:38 PM task_001 main
+INFO: Incoming List: [26, 8, 12, 7, 39, 0, 3, 9]
+мар. 10, 2023 4:59:40 PM task_001 sort
+INFO: Swapped: 8 and 26
+мар. 10, 2023 4:59:40 PM task_001 sort
+INFO: Swapped: 12 and 26
+мар. 10, 2023 4:59:40 PM task_001 sort
+INFO: Swapped: 7 and 26
+мар. 10, 2023 4:59:40 PM task_001 sort
+INFO: Swapped: 0 and 39
+мар. 10, 2023 4:59:41 PM task_001 sort
+INFO: Swapped: 3 and 39
+мар. 10, 2023 4:59:41 PM task_001 sort
+INFO: Swapped: 9 and 39
+мар. 10, 2023 4:59:41 PM task_001 sort
+INFO: Swapped: 7 and 12
+мар. 10, 2023 4:59:41 PM task_001 sort
+INFO: Swapped: 0 and 26
+мар. 10, 2023 4:59:41 PM task_001 sort
+INFO: Swapped: 3 and 26
+мар. 10, 2023 4:59:41 PM task_001 sort
+INFO: Swapped: 9 and 26
+мар. 10, 2023 4:59:41 PM task_001 sort
+INFO: Swapped: 7 and 8
+мар. 10, 2023 4:59:41 PM task_001 sort
+INFO: Swapped: 0 and 12
+мар. 10, 2023 4:59:42 PM task_001 sort
+INFO: Swapped: 3 and 12
+мар. 10, 2023 4:59:42 PM task_001 sort
+INFO: Swapped: 9 and 12
+мар. 10, 2023 4:59:42 PM task_001 sort
+INFO: Swapped: 0 and 8
+мар. 10, 2023 4:59:42 PM task_001 sort
+INFO: Swapped: 3 and 8
+мар. 10, 2023 4:59:42 PM task_001 sort
+INFO: Swapped: 0 and 7
+мар. 10, 2023 4:59:43 PM task_001 sort
+INFO: Swapped: 3 and 7
+мар. 10, 2023 4:59:43 PM task_001 main
+INFO: Sorted List: [0, 3, 7, 8, 9, 12, 26, 39]
